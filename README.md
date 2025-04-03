@@ -26,3 +26,28 @@ Both **Agile** and **DevOps** aim to improve software development, but they focu
 ### 💡 **DevOps = How you deliver and run software efficiently.**  
 
 Think of **Agile** as improving **teamwork and planning**, while **DevOps** makes sure the **technical process runs smoothly** from coding to production! 🚀
+
+# Agile vs. DevOps
+
+## 📌 Overview
+Agile and DevOps are two important approaches in software development, each with a different focus. Agile is about flexibility and iterative development, while DevOps is about automation and collaboration between development and operations.
+
+## 🔍 Key Differences
+
+| Feature        | Agile | DevOps |
+|---------------|-------|--------|
+| **Purpose**   | Iterative approach to quickly adapt to customer needs | Combines development and operations with automation |
+| **Principles** | Focuses on people, collaboration, working software, and responsiveness | Emphasizes culture, automation, lean principles, measuring, and sharing |
+| **Practices**  | Uses sprints, daily stand-ups, and task breakdown | Uses continuous integration, delivery, monitoring, and automation |
+| **Team Skills** | Flexible, multi-functional, strong communication (technical & non-technical) | Focuses on automation, infrastructure as code (IaC), and software deployment |
+
+## 🚀 When to Use What?
+- **Use Agile** when focusing on rapid feature development and customer feedback.
+- **Use DevOps** when aiming for seamless software deployment and infrastructure automation.
+
+## 🔗 Learn More
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [DevOps Practices](https://aws.amazon.com/devops/what-is-devops/)
+
+---
+💡 *Both Agile and DevOps can work together to improve software development and delivery!*
